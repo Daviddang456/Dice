@@ -12,7 +12,7 @@ int diceSize = 30;
  
  void setup()
   {
-    size(2000,2000);
+    size(1000,1000);
       noLoop();
       
   }
